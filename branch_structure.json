@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "master",
+    "origin",
+    "uiux/error-recovery-patterns"
+  ],
+  "parent": {
+    "master": null,
+    "origin": "master",
+    "uiux/error-recovery-patterns": "master"
+  },
+  "order": [
+    "master",
+    "origin",
+    "uiux/error-recovery-patterns"
+  ]
+}
